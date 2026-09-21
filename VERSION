@@ -1,5 +1,6 @@
-tfmodgen=v0.1.0-rc1
-tfmodgen_commit=4e0ed94
+release=v6.13.0
+tfmodgen=b4a0f45
+tfmodgen_commit=b4a0f45
 provider=registry.terraform.io/integrations/github
 provider_version=6.13.0
 schema_digest=9570e1785f6f58d2
